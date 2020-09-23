@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+08:42:17	95737/95737	---MCZ	200	added ('OK')	text/html	date:Wed,%2023%20Sep%202020%2001:42:18%20GMT	http://pro-theme.com/html/alia-envato/every-sunday-newspaper-magazine-blog-theme/home-autos.html	C:/My%20Web%20Sites/newtransport/pro-theme.com/html/alia-envato/every-sunday-newspaper-magazine-blog-theme/home-autos.html	(from )
+08:42:18	26/26	---M--	200	added ('OK')	text/plain	etag:%22649c80-1a-5a4f96512cd1f%22	http://pro-theme.com/robots.txt		(from )
